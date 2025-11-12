@@ -1,6 +1,6 @@
 Flask==3.1.2
 Flask-Cors==6.0.1
-SQLAlchemy==2.0.29
+SQLAlchemy==1.4.54
 gunicorn==22.0.0
 <<<<<<< HEAD
 python-3.11.9
