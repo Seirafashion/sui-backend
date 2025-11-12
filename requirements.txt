@@ -2,4 +2,8 @@ Flask==3.1.2
 Flask-Cors==6.0.1
 SQLAlchemy==2.0.29
 gunicorn==22.0.0
+<<<<<<< HEAD
 python-3.11.9
+=======
+psycopg2-binary==2.9.9
+>>>>>>> 1dc77e6 (added render.yaml and updated requirements)
